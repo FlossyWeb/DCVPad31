@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.taxibleuservices.dcvpad31"
-        version   = "0.0.1">
+        version   = "1.0.0">
     <name>DCVPad 31</name>
 
     <description>
@@ -23,11 +23,10 @@
 	<feature name="http://api.phonegap.com/1.0/network"/>
 	<feature name="http://api.phonegap.com/1.0/notification"/>
 
-    <preference name="phonegap-version" value="2.7.0" />
+    <preference name="phonegap-version" value="2.9.0" />
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
-	<preference name="stay-in-webview" value="true" />
 	<preference name="ios-statusbarstyle" value="black-opaque" />
 
     <icon src="icon.png" />
